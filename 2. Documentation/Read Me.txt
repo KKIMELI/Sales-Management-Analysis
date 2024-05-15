@@ -1,0 +1,6 @@
+Take a business user request
+Organize it into business demand overview
+Create some user stories
+Which will then use when we are going to find the right tables to cleanse and transform
+And also when we are going to create a dashboard, 
+And then the user can come back, they can look at the acceptance criteria that they had written down and ensure that our dashboards and reports can fulfill those acceptance criterias
